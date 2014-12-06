@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My name is Bradley Frost. I am software developer temporarily residing
+in the San Francisco Bay Area. I am also a student at the University
+of Michigan. My interests are all over the board. I enjoy all things
+from circuits and hardware programing to web development. When not
+being productive, you can usually find me looking for a good hike in
+the Bay or trying to get to the beach. Or watching Netflix 
+(currently Star Trek: TOS).
